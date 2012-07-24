@@ -116,6 +116,21 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
+[Document7]
+DocumentPath=USBAudioAmp.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for UWVoicebandModem\Design Rule Check - UnderWaterStereo.html
 DItemRevisionGUID=
@@ -189,6 +204,70 @@ DocumentPath=Gerbs 7-23-2012 6-26-51 PM\UnderWaterStereo.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Gerbs 7-23-2012 6-45-54 PM\USBAudioAmp.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument35]
 DocumentPath=Project Outputs for UWVoicebandModem\UWVoicebandModem.xls
 DItemRevisionGUID=
 
@@ -211,8 +290,8 @@ AddNetsInformation=-1
 AddNetPins=-1
 AddNetNetLabels=-1
 AddNetPorts=-1
-ExportBOM=0
-TemplateFilename=BOM Default Template 95.xlt
+ExportBOM=-1
+TemplateFilename=BOM Simple.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=0
 SCH_PrintColor=0
@@ -220,7 +299,7 @@ SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
 SCH_ShowBlankets=-1
-OutputFileName=UWVoicebandModem.PrjPCB=C:\Users\henry\Dropbox\UnderWaterVoiceBandModem\UWVoicebandModem.pdf
+OutputFileName=USBAudioAmp.PrjPCB=C:\Users\henry\Dropbox\UnderWaterVoiceBandModem\USBAudioAmp.pdf
 SCH_ExpandLogicalToPhysical=0
 SCH_VariantName=[No Variations]
 SCH_ExpandComponentDesignators=-1
