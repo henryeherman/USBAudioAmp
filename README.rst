@@ -1,5 +1,5 @@
 USB Audio Amplifier
-===================
+*******************
 The USB Audio amplififer is based upon the reference design for the PCM2906C.  The output from the amplifier is fed in to an STA540 Power amplifer, the design of which is shamelessly borrowed from the `Sparkfun <http://www.sparkfun.com>`_ `audio amplifier kit <http://www.sparkfun.com/products/9612>`_.  The stereo input of the usb codec chip is driven by two instrumentation amplifiers that provide selectable gain of 5, 50 100.5 and 505 or 14dB, 34dB, 40dB and 54dB respectively.  The purpose is further discussed below.
 
 The designs files were all created in altium, but a pdf and gerber files are provided so the design can be reused by those interested.
