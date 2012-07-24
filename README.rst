@@ -46,4 +46,4 @@ U5 prodives a low impedance reference voltage for the two instrumentation amplif
 
 Purpose
 -------
-The intention is to use directly couple a singal into an aqueous medium using one *"widget"* and use another *"widget"* to amplify the signal and receive it.  Using GNURadio it maybe possible to explore underwater electrostatics as a communication channel.
+The intention is to directly couple a voltage singal into an aqueous medium using one *"widget"* and use another *"widget"* to amplify the signal and receive it.  Using GNURadio it maybe possible to explore underwater electrostatics as a communication channel.
