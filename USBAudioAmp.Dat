@@ -1,0 +1,45 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~168|Field=Value~String~Value~100|Field=Footprint~String~Footprint~203|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~USBAudioAmp.PrjPCB|ReportField=ProjectFullPath~C:\Users\henry\Dropbox\UnderWaterVoiceBandModem\USBAudioAmp.PrjPCB|ReportField=Title~Bill of Materials For Project [USBAudioAmp.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~125|ReportField=ReportTime~6:37:53 PM|ReportField=ReportDate~7/23/2012|ReportField=ReportDateTime~7/23/2012 6:37:53 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~7/23/2012|ReportField=CurrentTime~6:37:52 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\henry\Dropbox\UnderWaterVoiceBandModem\AmplifierInput.SchDoc|ReportField=DocumentName~AmplifierInput.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~7/23/2012|ReportField=Organization~|ReportField=ProjectName~USBAudioAmp.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~USBAudioAmp.PrjPCB|ReportField=DataSourceFullPath~C:\Users\henry\Dropbox\UnderWaterVoiceBandModem\USBAudioAmp.PrjPCB
+CAP|CAP|C1, C2, C5, C7, C9, C10, C11, C12, C13, C21, C25, C27, C28, C29, C30, C31|1uF|SM/C_0805|CAP|16
+CAP|CAP|C3, C4, C6, C8|0.01uF|SM/C_0805|CAP|4
+CAP_POL|CAP|C14, C17, C18, C19, C23, C24|470uF|SM/CT_6032_12|CAP_POL|6
+CAP|CAP|C15, C16|470nF|SM/C_0805|CAP|2
+CAP_POL|CAP|C20|1000uF|CAP-CAN-SMD-POL-12.5mmDia|CAP_POL|1
+CAP|CAP|C22, C26|4.7uF|SM/C_0805|CAP|2
+CAP|CAP|C32|10uF|SM/C_0805|CAP|1
+CAP|CAP|C33, C34|22pF|SM/C_0805|CAP|2
+M03x1||CON1, CON2, CON3||M03x1|M03x1|3
+LED||D1, D2, D3, D4, D5||LED-0805|LED|5
+0031.8221|FUSEHOLDER BLACK FOR SMD 5X20MM|F1||SCHURTER/SMD/2 PADS/0031.8221|2105|1
+0031.8221|Ferrite Bead|F2||SM/R_0805|Ferrite Bead|1
+TERM BLOCK 2POS||INL, INR, OUTL, OUTR, VPWR||Conn-ScrewTerminal-2pin-Phoenix|2Pin-PhoenixTerminalBlock|5
+JMPR|Jumper|J1||M03x1-nolock|JMPR-3|1
+Res|Resistor|JC1, JC2, JO1, JO2, R5, R10, R16, R17|0|SM/R_0805|Res|8
+22uH|INDUCTOR SHIELD PWR 22UH 10145|L2, L3||G_JMETRIC/TDK/SLE10145|1660|2
+SI4423DY-T1-E3|mosfet,p ch,20v,10a,8soic; transistor polarity:p channel;|Q1||SOIC-8-Lead-Vishay-PFET|2390|1
+Res|Resistor|R1, R2, R3, R4, R11, R12, R14, R22, R23, R24|10K|SM/R_0805|Res|10
+Res|Resistor|R6, R19|40k|SM/R_0805|Res|2
+Res|Resistor|R7, R13, R15, R18|499K|SM/R_0805|Res|4
+Res|Resistor|R8, R20|191k|SM/R_0805|Res|2
+Res|Resistor|R9, R21, R47|1M|SM/R_0805|Res|3
+Res|Resistor|R25, R26, R28, R30|3K|SM/R_0805|Res|4
+Res|Resistor|R27, R29, R40, R43, R44, R46|1k5|SM/R_0805|Res|6
+Res|Resistor|R31|3K3|SM/R_0805|Res|1
+Res|Resistor|R32, R33|1K|SM/R_0805|Res|2
+Res|Resistor|R34|393|SM/R_0805|Res|1
+Res|Resistor|R35, R39|240|SM/R_0805|Res|2
+Res|Resistor|R36|330|SM/R_0805|Res|1
+Res|Resistor|R37, R45|470|SM/R_0805|Res|2
+Res|Resistor|R38|715|SM/R_0805|Res|1
+Res|Resistor|R41, R42|22|SM/R_0805|Res|2
+SPDTSwitch||S1||SPDTSwitch|SPDTSwitch|1
+4 POS DIP SWITCH||SW1||DIPSW4PIN|4 POS DIP SWITCH|1
+TEST_PT||TP_GND1, TP_STDBY, TP_VDD, TP_VOUTL, TP_VOUTR||TEST_PT_SMD|TEST_PT|5
+SMAJ20CA-TP|TVS 400W 12V BIDIRECT SMA|TVS1||D0-214AC|2519|1
+ADG1609||U1, U4||TSSOP 16LEAD - Analog Devices - ADG1609|ADG1609|2
+INA331||U2, U3||MSOP-8PIN-TI|INA331|2
+OPA336||U5, U6, U7||SOT23-5 -TI|OPA335|3
+STA540||U8||STA540_Multiwatt15|STA540|1
+PCM2906||U9||SSOP-28PIN-TI|PCM2906C|1
+USB MiniB|NPN General Purpose Amplifier|USB||USB-MINIB|USB MiniB|1
+ADJ_VOLT_REG||VR1, VR2||LM317-SOT233-POS-ADJ-VOLT_REG|ADJ_VOLT_REG|2
+XTAL-FA238V||X1||XTAL 12MHz SMD|XTAL-FA238V|1

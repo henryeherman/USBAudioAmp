@@ -1,0 +1,15 @@
+*.SchDocPreview
+*.xml
+*.idw
+*.ipt
+History/
+OldVersions/
+Orders/
+Project\ Logs*
+Project\ Outputs*
+*.scc
+*.lck
+*.lnk
+Gerbs\ *
+*.swp
+*.swo

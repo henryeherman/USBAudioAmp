@@ -1,0 +1,67 @@
+Purchase Order for Vendor's Name:   ,,,Digikey,,
+Account/Project,,,,,
+,,,,,
+Contact,Henry Herman,,,,
+ ,hherman@ucla.edu,,,,
+,,,,,
+Date,6/17/2012,,,,
+PI/Prof.,Prof Srivastava,,,,
+Shipping,standard,,,,
+,,,,,
+,,,,,
+Vendor's url:,,www.digikey.com,,,
+,,,,,
+Index,Quantity,Vendor's Part Number,Description,Unit Price,Extended Price
+,,,,USD,USD
+1,50,587-1284-1-ND,1uF 0805 capactitor,0.05,2.28
+2,12,445-2672-1-ND,0.01uF 0805 capacitor,0.30,3.55
+3,15,399-5214-1-ND, 6032 Tantalum 100uF capacitor,1.12,16.76
+4,10,587-1282-1-ND,470nF 0805 Capacitor,0.08,0.84
+5,5,PCE3462CT-ND,1000uF Electrolytic Capacitor,1.61,8.05
+6,0.165,587-1294-1-ND,4.7uF 0805 Capacitor,10.00,1.65
+7,10,587-1295-1-ND,10uF 0805 Capacitor,0.17,1.73
+8,25,478-1280-1-ND,22pF 0805 Capacitor,0.10,2.50
+9,10,A19901-ND,3Pin Friction lock header,0.26,2.58
+10,15,160-1218-1-ND,0805 Green LED,0.25,3.72
+11,5,486-1260-ND,Surface Mount Fuse Holder,1.01,5.05
+12,5,587-1912-1-ND,0805 Ferrite Bead,0.10,0.50
+13,10,277-1106-ND,Phoenix 2pin 5.08 spacing terminal,0.48,4.80
+14,5,A31113-ND,3pin tin 100mil header,0.26,1.30
+15,50,P0.0ACT-ND,0805 0.0Ohm Ressiter,0.02,0.86
+16,6,445-1981-1-ND,22uH Shielded Inductor,1.17,7.02
+17,5,SI4423DY-T1-E3CT-ND,PFET,2.35,11.75
+18,50,P10.0KCCT-ND,0805 10k Resistor,0.03,1.38
+19,50,P40.2KCCT-ND,0805 40k Resistor,0.03,1.38
+20,50,P499KCCT-ND,0805 499k Resistor,0.03,1.38
+21,50,P191KCCT-ND,0805 191k Resistor,0.03,1.38
+22,50,P1.00MCCT-ND,0805 1M Resistor,0.03,1.38
+23,50,P3.0KCCT-ND,0805 3k Resistor,0.03,1.38
+24,50,P1.50KCCT-ND,0805 1.5k Resistor,0.03,1.38
+25,50,P3.30KCCT-ND,0805 3.3k Resistor,0.03,1.38
+26,50,P1.00KCCT-ND,0805 1k Resistor,0.03,1.38
+27,50,P392CCT-ND,0805 393 Resistor,0.03,1.38
+28,50,P240CCT-ND,0805 240 Resistor,0.03,1.38
+29,50,P330CCT-ND,0805 330 Resistor,0.03,1.38
+30,50,P470CCT-ND,0805 470 Resistor,0.03,1.38
+31,50,P715CCT-ND,0805 715 Resistor,0.03,1.38
+32,50,P22.0CCT-ND,0805 22 Resistor,0.03,1.38
+33,4,401-1999-1-ND,SPDT Sliding Switch,0.65,2.60
+34,5,450-1364-ND,4 Position DIP Switch,0.80,4.00
+35,15,952-1478-1-ND,Test Points,0.40,5.99
+36,5,SMAJ20CA-TPMSCT-ND,20V Transient Voltage Suppressor,0.55,2.75
+37,5,ADG1609BRUZ-ND,Analog Multiplexer,8.53,42.65
+38,5,296-12203-1-ND,Instrumentation Amplifier,3.03,15.15
+39,7,296-26271-1-ND,Operational Amplifier,3.03,21.21
+40,3,497-11261-5-ND,Audio Power Amplifier,5.56,16.68
+41,3,296-24138-1-ND,USB Audio Codec,12.07,36.21
+42,3,H2959CT-ND,Mini USB Connector,1.25,3.75
+43,5,296-12631-1-ND,Adjustable Voltage Regulator,0.39,1.95
+44,4,SER3682CT-ND,12MHz Crystal Ocsillator,2.25,9.00
+45,2,T1190-P5RP-ND,12Volt AC/DC Wall Converter,30.61,61.22
+46,15,F2396-ND,Fuse 250V 8A,0.34,5.10
+48,10,277-1964-ND,Pheonix Terminal Block Plug 2Pos,1.67,16.69
+49,12,160-1423-1-ND,LED Green Clear 805,$0.25,$2.98
+,,,,,
+JUSTIFICATION: ,USB Power Amp TX/RX,,,Subtotal,$343.56
+,,,,Handling,$0.00
+,,,,Total,$343.56
